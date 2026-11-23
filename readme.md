@@ -56,7 +56,7 @@ Press a button, land on a site you have never seen. The spirit of StumbleUpon li
 ## Travel from your chair
 
 - [Radio Garden](https://radio.garden) - Spin a globe and tune in to live local radio wherever you stop.
-- [WindowSwap](https://www.window-swap.com) - Look out of a stranger's window somewhere in the world for a few minutes.
+- [WindowSwap](https://www.window-swap.com) - Spend a few minutes at a stranger's window, in a city or a village you will never visit.
 - [Drive & Listen](https://drivenlisten.com) - Ride through a city's streets on video while its local radio plays.
 - [Virtual Vacation](https://virtualvacation.us) - Walk, drive or fly through cities on video, or tune into live cameras.
 - [Yamanote.fun](https://yamanote.fun) - The sounds of riding Tokyo's loop line, station by station.
@@ -107,7 +107,7 @@ Press a button, land on a site you have never seen. The spirit of StumbleUpon li
 - [Kittens Game](https://kittensgame.com) - A slow, text-based game of growing a village of cats.
 - [Akinator](https://en.akinator.com) - Think of someone; a genie guesses who from yes-or-no questions.
 - [Find the Invisible Cow](https://findtheinvisiblecow.com) - Hunt for a hidden cow by sound alone.
-- [skribbl.io](https://skribbl.io) - Draw and guess words with other players.
+- [skribbl.io](https://skribbl.io) - Take turns sketching a secret word while the others race to name it.
 - [Draw a Stickman](https://www.drawastickman.com) - Your drawing becomes the hero of a short adventure.
 
 ## Draw and make things
